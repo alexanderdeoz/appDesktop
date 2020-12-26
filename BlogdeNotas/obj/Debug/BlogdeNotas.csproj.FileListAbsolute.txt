@@ -1,0 +1,10 @@
+C:\Users\Personal\Desktop\consolas\BlogdeNotas1\BlogdeNotas\bin\Debug\BlogdeNotas.exe.config
+C:\Users\Personal\Desktop\consolas\BlogdeNotas1\BlogdeNotas\bin\Debug\BlogdeNotas.exe
+C:\Users\Personal\Desktop\consolas\BlogdeNotas1\BlogdeNotas\bin\Debug\BlogdeNotas.pdb
+C:\Users\Personal\Desktop\consolas\BlogdeNotas1\BlogdeNotas\obj\Debug\BlogdeNotas.csprojAssemblyReference.cache
+C:\Users\Personal\Desktop\consolas\BlogdeNotas1\BlogdeNotas\obj\Debug\BlogdeNotas.Form1.resources
+C:\Users\Personal\Desktop\consolas\BlogdeNotas1\BlogdeNotas\obj\Debug\BlogdeNotas.Properties.Resources.resources
+C:\Users\Personal\Desktop\consolas\BlogdeNotas1\BlogdeNotas\obj\Debug\BlogdeNotas.csproj.GenerateResource.cache
+C:\Users\Personal\Desktop\consolas\BlogdeNotas1\BlogdeNotas\obj\Debug\BlogdeNotas.csproj.CoreCompileInputs.cache
+C:\Users\Personal\Desktop\consolas\BlogdeNotas1\BlogdeNotas\obj\Debug\BlogdeNotas.exe
+C:\Users\Personal\Desktop\consolas\BlogdeNotas1\BlogdeNotas\obj\Debug\BlogdeNotas.pdb
